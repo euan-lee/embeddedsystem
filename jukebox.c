@@ -51,20 +51,20 @@ char displayedTitle[10] = { 0, };
 int count;
 
 char song[5][56][1000] ={
-        {"classic music title","a","E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
+        {"classic music title","E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
 "E+ D+ C+# D+    E+ D+   C+# D+      F+4 D+8 F+   E+ D+ C+ D+   E+D+C+D+E+D+C+B$"
 },
-        {"rock music","a", "E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
+        {"rock music", "E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
 "E+ D+ C+# D+    E+ D+   C+# D+      F+4 D+8 F+   E+ D+ C+ D+   E+D+C+D+E+D+C+B$"},
-        {"stronger","a","E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
+        {"stronger","E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
 "E+ D+ C+# D+    E+ D+   C+# D+      F+4 D+8 F+   E+ D+ C+ D+   E+D+C+D+E+D+C+B$"},
 
-        {"country music","a", "E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
+        {"country music", "E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
 "E+ D+ C+# D+    E+ D+   C+# D+      F+4 D+8 F+   E+ D+ C+ D+   E+D+C+D+E+D+C+B$"
 "A4 E6 D C# D F8 P G6 F E F A8 P B6 A G# A"
 "E+ D+ C+# D+   E+ D+ C+# D+    F+4 D+8 F+ E+D+C+D+E+D+C+D+E+D+C+B$"
 "A4"},
-        {"chrismas carol","a", "E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
+        {"chrismas carol", "E6 D C# D    F8 P G6 F E F   A8 P B6 A G# A"
 "E+ D+ C+# D+    E+ D+   C+# D+      F+4 D+8 F+   E+ D+ C+ D+   E+D+C+D+E+D+C+B$"
 "A4 E6 D C# D F8 P G6 F E F A8 P B6 A G# A"
 "E+ D+ C+# D+   E+ D+ C+# D+    F+4 D+8 F+ E+D+C+D+E+D+C+D+E+D+C+B$"
